@@ -1,1 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual envs
+venv/
 .env
+*.env
+
+# Tools/Editor
+.idea/
+.vscode/
+*.log
+
+# Builds
+build/
+dist/
+*.spec
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
