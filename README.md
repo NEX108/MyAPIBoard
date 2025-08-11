@@ -28,7 +28,7 @@ Das Ganze ist **Open Source** und die genutzten APIs sind **kostenlos** – du m
 
 ### 1️⃣ Repository klonen
 ```bash
-git clone https://github.com/dein-benutzername/MyAPIBoard.git
+git clone https://github.com/NEX108/MyAPIBoard.git
 cd MyAPIBoard
 ```
 
